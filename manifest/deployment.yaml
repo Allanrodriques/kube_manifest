@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: allan1804/netflixclone:build-35
+        image: allan1804/netflixclone:build-39
         ports:
         - containerPort: 80
